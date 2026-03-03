@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(255, 0, 187);
+    
+}
+/* this  for  alll  div selector */
+div{
+    background-color: aqua;
+}
+/* for class selector */
+.abc{
+    background-color: rgb(0, 255, 0);
+}
+h2{
+    background-color: blue;
+}
+#head1{
+    background-color: purple;
+}
