@@ -31,3 +31,14 @@ h1{
     background-color: rgb(0, 255, 255);
     border: 3px solid black;
 }
+#newButton{
+    margin-left: auto;
+    background-color: rgb(255, 0, 255);
+    border: 3px solid green;
+    border-radius: 2px;
+    color: aliceblue;
+}
+div{
+    background-color: rgb(255, 0, 0);
+    border: 3px solid black;
+}
